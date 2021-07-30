@@ -1,2 +1,13 @@
-# generate-waterbalance-maps
-Create annual water balance maps from a SWAT+ model output
+# Generate water balance maps
+
+The script generates annual average maps of water balance variables for a SWAT+ output model
+
+## To install
+Works with python 3 and SWAT+ model output( output files in '.csv' format.
+
+## Versions
+Version 0.1.0 - July 2021 
+
+## License
+This project is licensed under the MIT License.
+
